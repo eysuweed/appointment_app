@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGreen">#e9f9f5</color>
+    <color name="darkGreen">#1fc29d</color>
+    <color name="grey">#acacac</color>
+    <color name="lightGrey">#dbdbdb</color>
+    <!-- Theme Group 1 -->
+    <color name="group1_primary">#150016</color> <!-- Dark purple-black -->
+    <color name="group1_secondary">#29104A</color> <!-- Deep purple -->
+    <color name="group1_tertiary">#522C5D</color> <!-- Muted purple -->
+    <color name="group1_accent">#845162</color> <!-- Dusky pink -->
+    <color name="group1_light">#E3B6B1</color> <!-- Light pink -->
+    <color name="group1_background">#FFE3D8</color> <!-- Peach background -->
+
+
+        <!-- Existing Colors -->
+        <color name="red_primary">#ff0044</color> <!-- Red color -->
+        <color name="red_primary_container">#FFCCCC</color> <!-- Light red for containers -->
+        <color name="on_red_primary">#FFFFFF</color> <!-- White text on primary red -->
+        <color name="red_secondary">#FF5733</color> <!-- Another shade of red for secondary -->
+        <color name="on_red_secondary">#FFFFFF</color> <!-- White text on secondary red -->
+
+        <color name="green_tea">#013220</color>
+        <color name="purple_200">#FFBB86FC</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="background">#F0F4F3</color>
+
+
+
+        <!-- Theme Group 2 -->
+        <color name="group2_primary">#031716</color>
+        <color name="group2_secondary">#032F30</color>
+        <color name="group2_tertiary">#0A7075</color>
+        <color name="group2_accent">#0C969C</color>
+        <color name="group2_light">#6BA3BE</color>
+        <color name="group2_background">#274D60</color>
+
+        <!-- Theme Group 3 -->
+        <color name="group3_primary">#03122F</color>
+        <color name="group3_secondary">#19305C</color>
+        <color name="group3_tertiary">#413B61</color>
+        <color name="group3_accent">#AE7DAC</color>
+        <color name="group3_light">#F3DADF</color>
+        <color name="group3_background">#F1916D</color>
+
+        <!-- Theme Group 4 -->
+        <color name="group4_primary">#181A2F</color>
+        <color name="group4_secondary">#242E49</color>
+        <color name="group4_tertiary">#37415C</color>
+        <color name="group4_accent">#FDA481</color>
+        <color name="group4_light">#B4182D</color>
+        <color name="group4_background">#54162B</color>
+
+        <!-- Theme Group 5 -->
+        <color name="group5_primary">#0D1E4C</color>
+        <color name="group5_secondary">#C48CB3</color>
+        <color name="group5_tertiary">#E5C9D7</color>
+        <color name="group5_accent">#83A6CE</color>
+        <color name="group5_light">#26415E</color>
+        <color name="group5_background">#0B1B32</color>
+
+        <!-- Custom Styles -->
+        <style name="CustomCheckBoxStyleWhite">
+            <item name="android:buttonTint">@color/white</item> <!-- Checkbox color -->
+            <item name="android:textColor">@android:color/black</item> <!-- Text color -->
+            <item name="android:textSize">14sp</item> <!-- Text size -->
+            <item name="android:paddingStart">16dp</item> <!-- Padding for the left side -->
+            <item name="android:paddingEnd">16dp</item> <!-- Padding for the right side -->
+        </style>
+        <style name="CustomCheckBoxStyleBlack">
+            <item name="android:buttonTint">@color/black</item> <!-- Checkbox color -->
+            <item name="android:textColor">@android:color/black</item> <!-- Text color -->
+            <item name="android:textSize">14sp</item> <!-- Text size -->
+            <item name="android:paddingStart">16dp</item> <!-- Padding for the left side -->
+            <item name="android:paddingEnd">16dp</item> <!-- Padding for the right side -->
+        </style>
+
+
+</resources>

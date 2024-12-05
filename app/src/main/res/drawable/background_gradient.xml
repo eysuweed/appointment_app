@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Light Base Background -->
+    <path
+        android:fillColor="#FFE6B3"
+        android:pathData="M0,0h100v100h-100z" />
+
+    <!-- Subtle Gradient Overlay (Warm Yellow to Light Orange) -->
+    <path
+        android:fillColor="#FFD580"
+        android:pathData="M0,0h100v100h-100z"
+        android:alpha="0.6" />
+
+    <!-- Angular Shapes for Subtle Depth -->
+    <path
+        android:fillColor="#FFC966"
+        android:pathData="M0,60l100,-40v40l-100,40z"
+        android:alpha="0.7" />
+    <path
+        android:fillColor="#FFB347"
+        android:pathData="M20,80l80,-60v20l-80,60z"
+        android:alpha="0.5" />
+
+    <!-- Diagonal Soft Lines for Texture -->
+    <path
+        android:strokeColor="#FFA500"
+        android:strokeWidth="1.5"
+        android:pathData="M5,5l90,90M15,0l85,85M25,0l75,75"
+        android:alpha="0.3" />
+
+    <!-- Large Soft Ellipse Highlight -->
+    <path
+        android:fillColor="#FFE5B4"
+        android:pathData="M50,50c30,0 50,20 50,40s-20,40 -50,40s-50,-20 -50,-40s20,-40 50,-40z"
+        android:alpha="0.4" />
+
+    <!-- Subtle Abstract Orange Accents -->
+    <path
+        android:fillColor="#FF9966"
+        android:pathData="M10,80c15,0 25,10 25,20s-10,20 -25,20s-25,-10 -25,-20s10,-20 25,-20z"
+        android:alpha="0.3" />
+    <path
+        android:fillColor="#FFB380"
+        android:pathData="M70,10c15,0 25,10 25,20s-10,20 -25,20s-25,-10 -25,-20s10,-20 25,-20z"
+        android:alpha="0.5" />
+
+    <!-- Diagonal Textured Lines for a Soft Finish -->
+    <path
+        android:strokeColor="#FFCC99"
+        android:strokeWidth="0.8"
+        android:pathData="M0,70l100,-60M10,80l90,-50M20,90l80,-40"
+        android:alpha="0.2" />
+
+</vector>

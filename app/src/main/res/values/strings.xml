@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Therapy</string>
+    <string name="consult_only_with_a_ndoctor_you_trust">
+Consult only with a
+<font color="#1FC29D">\nDoctor you trust</font>
+</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="option_1_text">This is the text for Option 1.</string>
+    <string name="option_2_text">This is the text for Option 2.</string>
+    <string name="health_tip_1">
+    "Eating a balanced diet is one of the most important steps you can take for overall health and well-being. A balanced diet provides essential nutrients that the body needs to function properly, including proteins, carbohydrates, fats, vitamins, and minerals. To maintain a healthy body, focus on consuming a wide variety of foods from all food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats.
+
+    Fruits and vegetables should make up a large portion of your daily meals. These foods are packed with vitamins, minerals, antioxidants, and fiber, all of which are vital for maintaining good health. Aim for at least five servings of fruits and vegetables per day, choosing a variety of colors and types to ensure you get a broad range of nutrients. Green leafy vegetables, such as spinach and kale, are particularly rich in iron and calcium, while colorful fruits like berries, oranges, and bell peppers are high in vitamins C and A.
+
+    Lean proteins such as chicken, turkey, fish, and plant-based sources like beans, lentils, and tofu are important for muscle repair and growth. Protein is also essential for maintaining healthy skin, hair, and nails. For a heart-healthy diet, opt for lean cuts of meat and fish like salmon or tuna, which are high in omega-3 fatty acids. Omega-3s have been shown to reduce the risk of cardiovascular diseases and support brain function.
+
+    Whole grains, such as brown rice, quinoa, oats, and whole wheat bread, are an excellent source of fiber. Fiber helps with digestion, regulates blood sugar levels, and keeps you feeling full longer. Unlike refined grains, whole grains retain all parts of the grain, meaning they contain more vitamins, minerals, and antioxidants. Switching from white bread or pasta to whole grain options is a simple way to boost the nutritional quality of your meals.
+
+    Healthy fats, found in foods like avocados, olive oil, nuts, and seeds, are essential for brain function and hormone production. These fats also help absorb fat-soluble vitamins like vitamins A, D, E, and K. However, it's important to consume fats in moderation and focus on unsaturated fats, which are healthier than saturated fats found in animal products and processed foods.
+
+    In addition to eating the right foods, hydration is crucial for maintaining good health. Drinking plenty of water throughout the day helps regulate body temperature, supports digestion, and keeps your skin healthy. Water also flushes out toxins from the body and helps transport nutrients to cells. Aim for at least eight 8-ounce glasses of water per day, and increase this amount if you're physically active or in hot weather.
+
+    To maintain a balanced diet, it's also important to limit or avoid processed foods, sugary snacks, and drinks that are high in added sugars. These foods can contribute to weight gain, increase the risk of developing chronic diseases like diabetes and heart disease, and provide little nutritional value. Instead, focus on nutrient-dense foods that provide a variety of health benefits.
+
+    Lastly, while nutrition plays a crucial role in maintaining good health, regular physical activity is equally important. Exercise helps control weight, boost energy, reduce the risk of chronic diseases, and improve mental health. Incorporate at least 30 minutes of moderate exercise into your daily routine, whether it's walking, jogging, swimming, or strength training. Pairing a balanced diet with regular exercise is the key to a long, healthy life."
+    </string>
+    <string name="health_tip_2">
+    "Regular physical activity is one of the most important things you can do for your health. It doesn't just help with weight management, but it has a profound impact on both your physical and mental well-being. Engaging in physical activity regularly can reduce the risk of developing chronic conditions such as heart disease, stroke, type 2 diabetes, certain cancers, and mental health disorders. It can also help to manage weight, improve mood, and increase overall energy levels.
+
+    For adults, it's recommended to aim for at least 150 minutes of moderate-intensity aerobic activity per week. This could be something as simple as brisk walking, cycling, or swimming. If you're looking to improve cardiovascular health, try to maintain an activity that increases your heart rate for longer periods of time. Activities like brisk walking, jogging, and dancing are great examples. If you're more into strength training, consider adding two or more days of strength exercises into your routine each week.
+
+    Moderate-intensity exercises such as walking or cycling are accessible to most people and can be done almost anywhere. Walking for 30 minutes a day, five days a week, is enough to meet the minimum guidelines for aerobic activity. If you have limited time, try breaking up the 30-minute walk into shorter segments throughout the day—like walking for 10 minutes three times a day.
+
+    Strength training is also an important aspect of maintaining overall health. It involves exercises like lifting weights, using resistance bands, or doing bodyweight exercises such as squats, push-ups, and lunges. Strength training helps to build and maintain muscle mass, which naturally declines with age. It also strengthens bones, helps to improve balance, and supports metabolism by increasing lean muscle mass. Aim to engage in strength training exercises at least two days per week, targeting all major muscle groups.
+
+    Additionally, flexibility exercises, such as yoga or stretching, should be incorporated into your routine. These exercises help improve joint flexibility, reduce muscle stiffness, and prevent injuries. Yoga is particularly beneficial for enhancing flexibility, reducing stress, and promoting mindfulness. It can also help alleviate chronic pain conditions, such as back pain, by promoting proper posture and relieving muscle tension.
+
+    For those with busy schedules, it's important to remember that even small amounts of activity can make a big difference. If you're unable to commit to a full 30-minute workout, simply increasing your level of physical activity throughout the day can have health benefits. Take the stairs instead of the elevator, walk or bike instead of driving for short trips, or incorporate stretching and movement breaks during your workday. Every little bit of movement adds up and contributes to better health.
+
+    Mental health benefits are also closely linked to physical activity. Exercise has been shown to release endorphins, the body's natural mood-boosting chemicals. Regular physical activity can significantly reduce feelings of stress, anxiety, and depression. It can also improve sleep, which is crucial for overall well-being. If you find yourself feeling stressed or overwhelmed, taking a short walk or engaging in a physical activity can help to reset your mood and relieve tension.
+
+    Remember that consistency is key when it comes to exercise. Start slow if you’re new to physical activity, and gradually increase the intensity and duration of your workouts over time. Find activities that you enjoy, as this will help ensure you stick with them. Whether it's dancing, hiking, swimming, or playing sports, the most important thing is to stay active and make exercise a regular part of your lifestyle."
+    </string>
+    <string name="health_tip_3">"Getting enough sleep is crucial for your mental and physical health. Adults should aim for 7-9 hours of sleep per night to allow the body to recover, improve cognitive function, and boost the immune system. Good sleep hygiene, such as maintaining a regular sleep schedule, reducing screen time before bed, and creating a calm sleeping environment, can improve the quality of your sleep."</string>
+
+    <string name="health_tip_4">"Managing stress is essential for maintaining a healthy mind and body. Regular practice of relaxation techniques like deep breathing, meditation, or yoga can help reduce the negative impact of stress. It's also important to take breaks throughout the day, stay organized, and maintain a work-life balance. Don't hesitate to seek support from loved ones or professionals when stress feels overwhelming."</string>
+
+    <string name="health_tip_5">"Maintaining a healthy weight is not about dieting, but about making sustainable, long-term changes to your eating and physical activity habits. Aim for gradual weight loss of 1-2 pounds per week by reducing portion sizes, eating more nutrient-dense foods, and incorporating regular exercise. Remember, it's important to focus on health, not just the number on the scale."</string>
+
+    <string name="health_tip_6">"Hydration plays a vital role in your health, as water is involved in almost every bodily function. Drink at least 8 cups (64 ounces) of water per day, more if you are physically active or in hot weather. Staying hydrated helps with digestion, energy levels, skin health, and overall bodily function. Avoid sugary drinks, and opt for water or herbal teas as your main source of hydration."</string>
+
+    <string name="health_tip_7">"Mental health is just as important as physical health. Taking care of your mental well-being involves regular self-care practices, connecting with others, and seeking help when needed. Set aside time for activities you enjoy, try journaling, or practice mindfulness to manage anxiety and depression. It’s also important to reach out to friends, family, or a counselor if you're feeling overwhelmed."</string>
+
+    <string name="health_tip_8">"Sun protection is essential for preventing skin damage and reducing the risk of skin cancer. Always apply sunscreen with a broad-spectrum SPF of 30 or higher before going outside, even on cloudy days. Wear protective clothing, such as hats and sunglasses, and seek shade during peak sun hours (10 a.m. to 4 p.m.). Don't forget to reapply sunscreen every 2 hours or after swimming or sweating."</string>
+
+    <string name="health_tip_9">"Good posture is important for preventing back and neck pain, as well as improving overall comfort. When sitting, keep your back straight, shoulders back, and feet flat on the floor. Avoid slouching or leaning forward, especially when working on a computer. Regularly stretch and strengthen your muscles to improve your posture and reduce the risk of discomfort or injury."</string>
+
+    <string name="health_tip_10">"Regular hand washing is one of the simplest and most effective ways to prevent the spread of germs and reduce the risk of infections. Wash your hands with soap and water for at least 20 seconds, especially before eating, after using the restroom, and after coughing or sneezing. If soap and water are not available, use a hand sanitizer with at least 60% alcohol."</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Dark Base Background -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M0,0h100v100h-100z" />
+
+    <!-- Subtle Gradient Overlay (Dark to Light) -->
+    <path
+        android:fillColor="#0F3460"
+        android:pathData="M0,0h100v100h-100z"
+        android:alpha="0.6" />
+
+    <!-- Angular Shapes for Depth and Power -->
+    <path
+        android:fillColor="#16213E"
+        android:pathData="M0,60l100,-40v40l-100,40z"
+        android:alpha="0.7" />
+    <path
+        android:fillColor="#0F3460"
+        android:pathData="M20,80l80,-60v20l-80,60z"
+        android:alpha="0.5" />
+
+    <!-- Diagonal Dark Blue Strips for Texture -->
+    <path
+        android:strokeColor="#1B1B2F"
+        android:strokeWidth="1.5"
+        android:pathData="M5,5l90,90M15,0l85,85M25,0l75,75"
+        android:alpha="0.3" />
+
+    <!-- Large Soft Gradient Ellipse for Highlight -->
+    <path
+        android:fillColor="#282A36"
+        android:pathData="M50,50c30,0 50,20 50,40s-20,40 -50,40s-50,-20 -50,-40s20,-40 50,-40z"
+        android:alpha="0.4" />
+
+    <!-- Abstract Dark Red Accent Shapes -->
+    <path
+        android:fillColor="#A13333"
+        android:pathData="M10,80c15,0 25,10 25,20s-10,20 -25,20s-25,-10 -25,-20s10,-20 25,-20z"
+        android:alpha="0.3" />
+    <path
+        android:fillColor="#3A3A5D"
+        android:pathData="M70,10c15,0 25,10 25,20s-10,20 -25,20s-25,-10 -25,-20s10,-20 25,-20z"
+        android:alpha="0.5" />
+
+    <!-- Diagonal Textured Lines for a Sleek Finish -->
+    <path
+        android:strokeColor="#0D1B2A"
+        android:strokeWidth="0.8"
+        android:pathData="M0,70l100,-60M10,80l90,-50M20,90l80,-40"
+        android:alpha="0.2" />
+
+</vector>

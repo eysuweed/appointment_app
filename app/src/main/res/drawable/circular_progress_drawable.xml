@@ -1,0 +1,16 @@
+<!-- res/drawable/circular_progress_drawable.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#e0e0e0"/> <!-- Background color -->
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="oval">
+                <solid android:color="#3F51B5"/> <!-- Progress color -->
+                <corners android:radius="50dp"/> <!-- Optional: rounded corners -->
+            </shape>
+        </clip>
+    </item>
+</layer-list>
